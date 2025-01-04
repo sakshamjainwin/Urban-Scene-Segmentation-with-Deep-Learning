@@ -1,4 +1,4 @@
-# Urban-Scene-Segmentation-with-Deep-Learning
+# Urban-Scene-Semantic-Segmentation-with-Deep-Learning
 
 ## Overview
 This project implements semantic segmentation on the Cityscapes dataset using four advanced deep learning models:
